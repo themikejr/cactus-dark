@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Resources: /resources/
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/themikejr
 
 customize:
     gravatar:
@@ -13,7 +13,7 @@ customize:
         enabled: true
         width: 50
         height: 50
-        url: /images/logo.png
+        url: /images/mikepedia-120.png
         gravatar: false
     favicon: 
       # eg. generate with http://realfavicongenerator.net/
@@ -27,26 +27,25 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: http://github.com/themikejr
+        twitter: http://twitter.com/themikejr
+        linkedin: https://www.linkedin.com/in/michael-brinker-b5283b47/ 
     show_all_posts: false
     post_count: 5
     highlight: rainbow
 
 # RSS
-rss: false
+rss: 
 
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-11265464-2 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
     open_graph: # see http://ogp.me
         fb_app_id:
         fb_admins:
-        twitter_id:
+        twitter_id: themikejr
         google_plus:
